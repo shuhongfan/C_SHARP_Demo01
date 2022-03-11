@@ -1,0 +1,10 @@
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.sy1_2.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
