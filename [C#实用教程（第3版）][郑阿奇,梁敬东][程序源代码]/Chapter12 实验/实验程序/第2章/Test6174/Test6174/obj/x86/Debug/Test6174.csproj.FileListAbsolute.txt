@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test6174\Test6174\bin\Debug\Test6174.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test6174\Test6174\bin\Debug\Test6174.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test6174\Test6174\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test6174\Test6174\obj\x86\Debug\Test6174.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test6174\Test6174\obj\x86\Debug\Test6174.pdb

@@ -1,0 +1,14 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\bin\Debug\Ex5_12.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\bin\Debug\Ex5_12.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\bin\Debug\Function.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\bin\Debug\Function.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\bin\Debug\Ex5_12.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\bin\Debug\Ex5_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\bin\Debug\Function.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\bin\Debug\Function.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex5_12\Ex5_12\obj\x86\Debug\Ex5_12.csprojResolveAssemblyReference.cache

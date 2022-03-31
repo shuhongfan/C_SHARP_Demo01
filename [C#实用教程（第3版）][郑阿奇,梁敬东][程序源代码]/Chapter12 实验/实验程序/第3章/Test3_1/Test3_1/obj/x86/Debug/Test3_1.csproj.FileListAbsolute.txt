@@ -1,0 +1,10 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test3_1\Test3_1\bin\Debug\Test3_1.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test3_1\Test3_1\bin\Debug\Test3_1.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test3_1\Test3_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test3_1\Test3_1\obj\x86\Debug\Test3_1.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test3_1\Test3_1\obj\x86\Debug\Test3_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第3章\Test3_1\Test3_1\obj\x86\Debug\Test3_1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第3章\Test3_1\Test3_1\obj\x86\Debug\Test3_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第3章\Test3_1\Test3_1\bin\Debug\Test3_1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第3章\Test3_1\Test3_1\bin\Debug\Test3_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第3章\Test3_1\Test3_1\obj\x86\Debug\Test3_1.csprojResolveAssemblyReference.cache

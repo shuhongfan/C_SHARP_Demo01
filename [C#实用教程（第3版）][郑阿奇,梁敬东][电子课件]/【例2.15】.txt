@@ -1,0 +1,22 @@
+using System;
+¡­
+namespace Ex2_15
+{
+    class ForExam
+    {
+        static void Main(string[] args)
+        {
+            int passed;
+            int[] score = new int[] { 98, 76, 87, 65, 55, 68, 57, 84, 91, 100, 58, 76 };
+            passed = 0;
+            foreach (int x in score)
+                if (x >= 60)
+                {
+                    passed++;
+                    Console.Write("{0,4:d}", x);
+                }
+            Console.WriteLine("\n¼°¸ñÂÊ£º{0:P}", (double)passed / score.Length);
+            Console.Read();
+        }
+    }
+}

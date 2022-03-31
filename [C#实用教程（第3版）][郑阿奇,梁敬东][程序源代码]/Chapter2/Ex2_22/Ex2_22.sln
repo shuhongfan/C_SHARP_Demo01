@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2_22", "Ex2_22\Ex2_22.csproj", "{CE32FD9E-9098-4D83-AC95-3FF85B04DADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE32FD9E-9098-4D83-AC95-3FF85B04DADC}.Debug|x86.ActiveCfg = Debug|x86
+		{CE32FD9E-9098-4D83-AC95-3FF85B04DADC}.Debug|x86.Build.0 = Debug|x86
+		{CE32FD9E-9098-4D83-AC95-3FF85B04DADC}.Release|x86.ActiveCfg = Release|x86
+		{CE32FD9E-9098-4D83-AC95-3FF85B04DADC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

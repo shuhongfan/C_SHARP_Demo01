@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\bin\Debug\MyGraphics.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\bin\Debug\MyGraphics.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\bin\Debug\MyGraphics.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\bin\Debug\MyGraphics.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\MyGraphics\MyGraphics\obj\x86\Debug\MyGraphics.csproj.GenerateResource.Cache

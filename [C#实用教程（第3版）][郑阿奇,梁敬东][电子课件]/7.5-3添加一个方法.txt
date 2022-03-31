@@ -1,0 +1,28 @@
+private void Change_Point()
+{
+	Point pTemp = new Point();			// 定义临时点
+	if (pStart.X < pEnd.X)
+	{
+      	if (pStart.Y > pEnd.Y)
+        	{
+            	pTemp.Y = pStart.Y;
+             	pStart.Y = pEnd.Y;
+            	pEnd.Y = pTemp.Y;
+         	}
+    	}
+    	if (pStart.X > pEnd.X)
+    	{
+      	if (pStart.Y < pEnd.Y)
+        	{
+          	pTemp.X = pStart.X;
+          	pStart.X = pEnd.X;
+           	pEnd.X = pTemp.X;
+       	}
+        	if (pStart.Y > pEnd.Y)
+       	{
+           	pTemp = pStart;
+             	pStart = pEnd;
+            	pEnd = pTemp;
+        	}
+    	}
+}

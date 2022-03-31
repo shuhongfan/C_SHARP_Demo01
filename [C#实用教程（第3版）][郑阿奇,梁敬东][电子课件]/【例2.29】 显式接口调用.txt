@@ -1,0 +1,51 @@
+using System;
+…
+namespace Ex2_29
+{
+    public interface IWindow
+    {
+        Object GetMenu();
+    }
+    public interface IRestaurant
+    {
+        Object GetMenu();
+    }
+    // 该类型继承自system.Object，并实现了IWindow和IRestaurant 接口
+    class GiuseppePizzaria : IWindow, IRestaurant
+    {
+        // 该方法包括了IWindow接口的GetMenu方法实现
+        Object IWindow.GetMenu()
+        {
+            return "IWindow.GetMenu";
+        }
+        // 该方法包括了IRestaurant接口的GetMenu方法实现
+        Object IRestaurant.GetMenu()
+        {
+            return "IRestaurant.GetMenu";
+        }
+        // 这个GetMenu方法与接口没有任何关系
+        public Object GetMenu()
+        {
+            return "GiuseppePizzaria.GetMenu";
+        }
+        static void Main(string[] args)
+        {
+            // 构造一个类实例
+            GiuseppePizzaria gp = new GiuseppePizzaria();
+            Object menu;
+            // 调用公有的GetMenu方法。使用GiuseppePizzaria引用,
+            // 显式接口成员将为私有方法，因此不可能被调用
+            menu = gp.GetMenu();
+            Console.WriteLine(menu);
+            // 调用 IWindow的GetMenu方法。使用IWindow引用,
+            // 因此只有IWindow.GetMenu方法被调用
+            menu = ((IWindow)gp).GetMenu();
+            Console.WriteLine(menu);
+            // 调用IRestaurant的GetMenu方法。使用 IRestaurant引用,
+            // 因此只有IRestaurant.GetMenu方法被调用
+            menu = ((IRestaurant)gp).GetMenu();
+            Console.WriteLine(menu);
+            Console.Read();
+        }
+    }
+}

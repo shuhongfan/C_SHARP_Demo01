@@ -1,0 +1,30 @@
+using System;
+…
+namespace Ex3_26
+{
+    class WithFinally
+    {
+        static void Main(string[] args)
+        {
+            // 有可能发生异常的语句放到try语句中
+            try
+            {
+                int x = 5;
+                int y = 0;
+                int z = x / y;			// 异常，除数为0
+                Console.WriteLine(z);		// 不再执行
+            }
+            // try语句发生异常将跳转到catch块
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Error occurred, unable to compute");
+            }
+            // 不管有没有异常发生，都将执行finally块中的代码
+            finally
+            {
+                Console.WriteLine("Thank you for using the program");
+                Console.Read();
+            }
+        }
+    }
+}

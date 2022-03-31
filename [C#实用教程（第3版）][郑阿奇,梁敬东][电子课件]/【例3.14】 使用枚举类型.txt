@@ -1,0 +1,45 @@
+using System;
+…
+namespace Ex3_14
+{
+    // 定义枚举类型 Color
+    enum Color
+    {
+        Red,
+        Yellow,
+        Green
+    }
+    class TrafficLight
+    {
+        // 定义静态方法
+        public static void WhatInfo(Color color)
+        {
+            // 判断枚举值
+            switch (color)
+            {
+                case Color.Red:
+                    Console.WriteLine("Stop!");
+                    break;
+                case Color.Yellow:
+                    Console.WriteLine("Warning!");
+                    break;
+                case Color.Green:
+                    Console.WriteLine("Go!");
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
+    class Test
+    {
+        static void Main(string[] args)
+        {
+            Color c = Color.Red;
+            Console.WriteLine(c.ToString());
+            TrafficLight.WhatInfo(c);
+            Console.Read();
+        }
+    }
+}
+

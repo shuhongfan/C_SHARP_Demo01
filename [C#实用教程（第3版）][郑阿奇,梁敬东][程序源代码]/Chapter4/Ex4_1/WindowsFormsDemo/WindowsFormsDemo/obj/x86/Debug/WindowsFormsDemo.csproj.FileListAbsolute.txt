@@ -1,0 +1,19 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.TestForm.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.FormOpacity.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.TestForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.FormOpacity.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_1\WindowsFormsDemo\WindowsFormsDemo\obj\x86\Debug\WindowsFormsDemo.csproj.GenerateResource.Cache

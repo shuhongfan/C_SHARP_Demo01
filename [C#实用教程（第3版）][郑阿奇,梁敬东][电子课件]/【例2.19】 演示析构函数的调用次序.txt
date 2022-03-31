@@ -1,0 +1,31 @@
+using System;
+…
+namespace Ex2_19
+{
+    class Test
+    {
+        static void Main(string[] args)
+        {
+            Circle b = new Circle();
+            b = null;
+            GC.Collect();           // 强制对所有待回收的垃圾进行回收
+            Console.Read();
+        }
+    }
+    public class Point
+    {
+        private int x, y;
+        ~Point()
+        {
+            Console.WriteLine("Point's destructor ");
+        }
+    }
+    public class Circle : Point
+    {
+        private double radius;
+        ~Circle()
+        {
+            Console.WriteLine("Circle's destructor ");
+        }
+    }
+}

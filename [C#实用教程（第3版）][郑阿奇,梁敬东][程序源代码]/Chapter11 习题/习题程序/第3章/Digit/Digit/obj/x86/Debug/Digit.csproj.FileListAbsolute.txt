@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Digit\Digit\bin\Debug\Digit.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Digit\Digit\bin\Debug\Digit.pdb
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Digit\Digit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Digit\Digit\obj\x86\Debug\Digit.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Digit\Digit\obj\x86\Debug\Digit.pdb

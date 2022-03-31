@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\Ex10_2.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\Ex10_2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\Ex10_2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\DataLoad.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\Student.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\bin\Debug\MySql.Data.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex10_2\Ex10_2\obj\Debug\Ex10_2.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\习题程序\PavelTsekov\PavelTsekov\bin\Debug\PavelTsekov.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\PavelTsekov\PavelTsekov\bin\Debug\PavelTsekov.pdb
+D:\My Documents\Visual Studio 2010\Projects\习题程序\PavelTsekov\PavelTsekov\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\习题程序\PavelTsekov\PavelTsekov\obj\x86\Debug\PavelTsekov.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\PavelTsekov\PavelTsekov\obj\x86\Debug\PavelTsekov.pdb

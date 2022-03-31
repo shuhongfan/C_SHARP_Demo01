@@ -1,0 +1,5 @@
+E:\Chapter3\Ex3_5\Ex3_5\bin\Debug\Ex3_5.exe
+E:\Chapter3\Ex3_5\Ex3_5\bin\Debug\Ex3_5.pdb
+E:\Chapter3\Ex3_5\Ex3_5\obj\x86\Debug\Ex3_5.exe
+E:\Chapter3\Ex3_5\Ex3_5\obj\x86\Debug\Ex3_5.pdb
+E:\Chapter3\Ex3_5\Ex3_5\obj\x86\Debug\Ex3_5.csprojResolveAssemblyReference.cache

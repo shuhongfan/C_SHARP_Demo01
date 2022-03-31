@@ -1,0 +1,16 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\bin\Debug\Ex7_6.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\bin\Debug\Ex7_6.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\bin\Debug\Ex7_6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\bin\Debug\Ex7_6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_6\Ex7_6\obj\x86\Debug\Ex7_6.csproj.GenerateResource.Cache

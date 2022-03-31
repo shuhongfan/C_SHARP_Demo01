@@ -1,0 +1,45 @@
+using System;
+¡­
+namespace Ex3_30
+{
+    class MainEntryPoint
+    {
+        static void Main(string[] args)
+        {
+            string UserInput;
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Input a number between 0 and 5 " + "(or just hit return to exit)> ");
+                    UserInput = Console.ReadLine();
+                    if (UserInput == "")
+                        break;
+                    int index = Convert.ToInt32(UserInput);
+                    if (index < 0 || index > 5)
+                        // Å×³öIndexOutOfRangeExceptionÒì³£
+                        throw new IndexOutOfRangeException("You typed in " + UserInput);
+                    Console.WriteLine("Your number was " + index);
+                }
+                catch (IndexOutOfRangeException e)
+                {
+                    Console.WriteLine("Exception: " + "Number should be between 0 and 5£®" 
+																+ e.Message);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("An exception was thrown£®Message was: " + e.Message);
+                }
+                catch
+                {
+                    Console.WriteLine("Some other exception has occurred");
+                }
+                finally
+                {
+                    Console.WriteLine("Thank you");
+                    Console.Read();
+                }
+            }
+        }
+    }
+}

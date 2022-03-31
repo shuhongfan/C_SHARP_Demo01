@@ -1,0 +1,17 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\bin\Debug\Ex9_1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\bin\Debug\Ex9_1.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\bin\Debug\Ex9_1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\bin\Debug\Ex9_1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex9_1\Ex9_1\obj\x86\Debug\Ex9_1.csproj.GenerateResource.Cache

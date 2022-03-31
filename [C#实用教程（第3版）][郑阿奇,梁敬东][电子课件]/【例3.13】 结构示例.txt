@@ -1,0 +1,36 @@
+using System;
+…
+namespace Ex3_13
+{
+    // 定义结构MyStruct
+    struct MyStruct
+    {
+        // 定义字段x,y
+        public int x;
+        public int y;
+        // 定义构造函数
+        public MyStruct(int i, int j)
+        {
+            x = i;
+            y = j;
+        }
+        // 定义方法
+        public void Sum()
+        {
+            int sum = x + y;
+            Console.WriteLine("The sum is {0}", sum);
+        }
+    }
+    class Class1
+    {
+        static void Main(string[] args)
+        {
+            MyStruct s1 = new MyStruct(1, 2);
+            MyStruct s2 = s1;
+            s1.x = 2;
+            s1.Sum();
+            s2.Sum();
+            Console.Read();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+E:\Chapter2\Ex2_3\Ex2_3\bin\Debug\Ex2_3.exe.config
+E:\Chapter2\Ex2_3\Ex2_3\bin\Debug\Ex2_3.exe
+E:\Chapter2\Ex2_3\Ex2_3\bin\Debug\Ex2_3.pdb
+E:\Chapter2\Ex2_3\Ex2_3\obj\Debug\Ex2_3.csprojResolveAssemblyReference.cache
+E:\Chapter2\Ex2_3\Ex2_3\obj\Debug\Ex2_3.exe
+E:\Chapter2\Ex2_3\Ex2_3\obj\Debug\Ex2_3.pdb

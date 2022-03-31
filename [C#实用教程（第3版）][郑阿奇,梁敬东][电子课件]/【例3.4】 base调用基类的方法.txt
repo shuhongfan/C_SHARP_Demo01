@@ -1,0 +1,33 @@
+using System;
+…
+namespace Ex3_4
+{
+    public class Person
+    {
+        protected string Phone = "444-555-666";
+        protected string Name = "李明";
+        public void GetInfoPerson()
+        {
+            Console.WriteLine("Phone: {0}", Phone);
+            Console.WriteLine("Name: {0}", Name);
+        }
+    }
+    class Employee : Person
+    {
+        public string ID = "ABC567EFG";
+        public void GetInfoEmployee()
+        {
+            // 调用基类Person的GetInfo方法 
+            base.GetInfoPerson();
+            Console.WriteLine("Employee ID: {0}", ID);
+        }
+    }
+    class TestClass
+    {
+        static void Main(string[] args)
+        {
+            Employee Employees = new Employee();
+            Employees.GetInfoEmployee();
+        }
+    }
+}

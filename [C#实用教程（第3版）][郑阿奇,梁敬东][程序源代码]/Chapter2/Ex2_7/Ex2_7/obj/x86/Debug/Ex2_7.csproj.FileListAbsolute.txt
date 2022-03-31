@@ -1,0 +1,4 @@
+E:\Chapter2\Ex2_7\Ex2_7\bin\Debug\Ex2_7.exe
+E:\Chapter2\Ex2_7\Ex2_7\bin\Debug\Ex2_7.pdb
+E:\Chapter2\Ex2_7\Ex2_7\obj\x86\Debug\Ex2_7.exe
+E:\Chapter2\Ex2_7\Ex2_7\obj\x86\Debug\Ex2_7.pdb

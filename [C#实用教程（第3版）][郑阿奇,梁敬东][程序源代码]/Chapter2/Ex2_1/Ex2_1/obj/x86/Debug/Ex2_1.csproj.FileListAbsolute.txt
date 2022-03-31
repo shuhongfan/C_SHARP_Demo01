@@ -1,0 +1,5 @@
+E:\Chapter2\Ex2_1\Ex2_1\bin\Debug\Ex2_1.exe
+E:\Chapter2\Ex2_1\Ex2_1\bin\Debug\Ex2_1.pdb
+E:\Chapter2\Ex2_1\Ex2_1\obj\x86\Debug\Ex2_1.exe
+E:\Chapter2\Ex2_1\Ex2_1\obj\x86\Debug\Ex2_1.pdb
+E:\Chapter2\Ex2_1\Ex2_1\obj\x86\Debug\Ex2_1.csprojResolveAssemblyReference.cache

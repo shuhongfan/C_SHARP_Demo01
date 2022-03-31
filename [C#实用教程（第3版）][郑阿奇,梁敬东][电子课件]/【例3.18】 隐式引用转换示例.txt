@@ -1,0 +1,32 @@
+using System;
+…
+namespace Ex3_18
+{
+    public class Person
+    {
+        protected string Name = "李明";
+        public void GetInfo()
+        {
+            Console.WriteLine("我是一个人，我的名字叫：" + Name);
+        }
+    }
+    class Employee : Person
+    {
+        protected string ID = "ABC567EFG";
+        new public void GetInfo()
+        {
+            Console.WriteLine("我是一名雇员，我的工号是：" + ID);
+        }
+    }
+    class ReferenceConversion
+    {
+        static void Main(string[] args)
+        {
+            Employee e=new Employee();
+            e.GetInfo();
+            Person p = e;			// e隐式引用转换为p
+            p.GetInfo();
+            Console.Read();
+        }
+    }
+}

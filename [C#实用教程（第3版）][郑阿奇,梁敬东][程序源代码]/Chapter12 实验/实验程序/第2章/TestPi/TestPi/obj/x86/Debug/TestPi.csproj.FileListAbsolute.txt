@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\TestPi\TestPi\bin\Debug\TestPi.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\TestPi\TestPi\bin\Debug\TestPi.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\TestPi\TestPi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\TestPi\TestPi\obj\x86\Debug\TestPi.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\TestPi\TestPi\obj\x86\Debug\TestPi.pdb

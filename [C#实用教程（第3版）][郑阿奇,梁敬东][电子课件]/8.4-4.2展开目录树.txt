@@ -1,0 +1,30 @@
+//列出指定目录
+private void ListDirs(TreeNode tn, string strDir)
+{
+    if (nDirLevel > 4)
+    {
+        nDirLevel = 0;
+        return;
+    }
+    nDirLevel++;
+    string[] arrDirs;
+    TreeNode tmpNode;
+    try
+    { // 获取指定目录下的所有目录
+        arrDirs = Directory.GetDirectories(strDir);
+        if (arrDirs.Length == 0) return;
+        // 把每一个子目录添加到参数传递进来的树视图节点中
+        for (int i = 0; i < arrDirs.Length; i++)
+        {
+            tmpNode = new TreeNode(Path.GetFileName(arrDirs[i]), 1, 2);
+            // 对于每一个子目录，都进行递归列举
+            ListDirs(tmpNode, arrDirs[i]);
+            tn.Nodes.Add(tmpNode);
+        }
+
+    }
+    catch
+    {
+        return;
+    }
+}

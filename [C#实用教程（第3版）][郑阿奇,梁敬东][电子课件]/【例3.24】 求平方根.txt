@@ -1,0 +1,25 @@
+using System;
+…
+namespace Ex3_24
+{
+    class Sqrt
+    {
+        private static double GetSqrt(double a)
+        {
+            double x = 1.0;
+            do
+            {
+                x = (x + a/x)/2;
+            }
+            while (Math.Abs(x * x-a)/a > 1e-6);
+            return x;
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("迭代法求2.0的平方根：{0}", GetSqrt(2.0));
+            Console.WriteLine("使用.NET类库中Math类的Sqrt方法求2.0的平方根：{0}",
+															 Math.Sqrt(2.0));
+            Console.Read();
+        }
+    }
+}

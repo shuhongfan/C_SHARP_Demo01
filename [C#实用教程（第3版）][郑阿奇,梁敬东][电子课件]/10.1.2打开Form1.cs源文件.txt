@@ -1,0 +1,65 @@
+using System;
+...
+using MySql.Data.MySqlClient;						//添加MySQL驱动库引用
+
+namespace Ex10_1
+{
+    public partial class Form1 : Form
+    {
+        Student student;							//声明学生类对象
+        MySqlConnection con;						//声明数据库连接对象
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            DataLoad dl = new DataLoad();			//创建DataLoad类对象
+            con = dl.initializeData(comboBox_xh, comboBox_kcm);
+											//初始化并返回连接对象
+        }
+
+        private void button_search_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                student = new Student(con);					//创建学生类对象
+                if (comboBox_xh.Text == "") return;
+                student.getStubyXh(comboBox_xh.Text);			//由对象执行按学号检索操作
+			 //通过学生类对外提供的get方法获取检索到的学生各项信息
+                textBox_xm.Text = student.getXm();				//获取姓名
+                radioButton_male.Checked = student.getXb() ? true : false;
+                radioButton_female.Checked = student.getXb() ? false : true;
+													//获取性别
+                textBox_csrq.Text = student.getCsrq().ToString("yyyy-MM-dd");
+													//获取生日
+                textBox_zy.Text = student.getZy();				//获取专业
+                textBox_xf.Text = student.getXf().ToString();			//获取学分
+                richTextBox_bz.Text = student.getBz();				//获取备注
+                dataGridView_kccj.DataSource = student.getKccj().Tables["KCJ"];
+													//获取该生的"课程-成绩"数据
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("检索失败！错误信息为：\r\n" + ex.ToString(), "异常", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void button_submit_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (student == null) student = new Student(con);		//创建学生类对象
+                if (comboBox_xh.Text == "" || comboBox_kcm.Text == "" || textBox_cj.Text == "") return;
+                student.insertStuCj(comboBox_xh.Text, comboBox_kcm.Text, int.Parse(textBox_cj.Text));														//由对象执行录入成绩操作
+                dataGridView_kccj.DataSource = student.getKccj().Tables["KCJ"];
+													//获取并刷新显示"课程-成绩"
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("录入失败！错误信息为：\r\n" + ex.ToString(), "异常", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+    }
+}

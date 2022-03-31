@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\CollectionsExample\CollectionsExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\CollectionsExample\CollectionsExample\obj\x86\Debug\CollectionsExample.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\CollectionsExample\CollectionsExample\obj\x86\Debug\CollectionsExample.pdb

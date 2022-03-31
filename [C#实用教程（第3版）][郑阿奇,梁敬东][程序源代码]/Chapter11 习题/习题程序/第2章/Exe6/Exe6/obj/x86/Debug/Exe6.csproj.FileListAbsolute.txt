@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe6\Exe6\bin\Debug\Exe6.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe6\Exe6\bin\Debug\Exe6.pdb
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe6\Exe6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe6\Exe6\obj\x86\Debug\Exe6.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe6\Exe6\obj\x86\Debug\Exe6.pdb

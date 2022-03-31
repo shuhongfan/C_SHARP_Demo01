@@ -1,0 +1,10 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Function\Function\bin\Debug\Function.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Function\Function\bin\Debug\Function.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Function\Function\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Function\Function\obj\Debug\Function.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Function\Function\obj\Debug\Function.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Function\Function\bin\Debug\Function.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Function\Function\bin\Debug\Function.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Function\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Function\Function\obj\Debug\Function.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Function\Function\obj\Debug\Function.pdb

@@ -1,0 +1,18 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\bin\Debug\MDI.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\bin\Debug\MDI.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Form2.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_4\MDI\MDI\obj\x86\Debug\MDI.csproj.GenerateResource.Cache

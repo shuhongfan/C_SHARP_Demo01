@@ -1,0 +1,96 @@
+// 列出指定目录下的所有子目录和文件
+private void ListDirsAndFiles(string strDir)
+{
+    ListViewItem lvi;
+    int nImgIndex;
+    string[] items = new string[4];
+    string[] dirs;
+    string[] files;
+    try
+    {
+        // 获取指定目录下的所有子目录
+        dirs = Directory.GetDirectories(@strDir);
+        // 获取指定目录下的所有文件
+        files = Directory.GetFiles(@strDir);
+    }
+    catch
+    {
+        return;
+    }
+    // 把子目录和文件添加到文件列表视图中
+    lvFiles.BeginUpdate();
+    lvFiles.Clear();            // 清除列表视图中的所有内容
+    // 添加4个列表头
+    lvFiles.Columns.AddRange(new ColumnHeader[] { chName, chSize, chType, chTime });
+    // 把子目录添加到列表视图中
+    for (int i = 0; i < dirs.Length; i++)
+    {
+        items[0] = Path.GetFileName(dirs[i]);
+        items[1] = "";
+        items[2] = "文件夹";
+        items[3] = Directory.GetLastWriteTime(dirs[i]).ToLongDateString() + "" 
+							+ Directory.GetLastWriteTime(dirs[i]).ToLongTimeString();
+        lvi = new ListViewItem(items, 1);
+        lvFiles.Items.Add(lvi);
+    }
+    // 把文件添加到列表视图中
+    for (int i = 0; i < files.Length; i++)
+    {
+        string ext = (Path.GetExtension(files[i])).ToLower();
+        // 根据不同的扩展名，设定列表项的图标
+        switch (ext)
+        {
+            case ".doc":
+                nImgIndex = 3;
+                break;
+            case ".docx":
+                nImgIndex = 4;
+                break;
+            case ".txt":
+                nImgIndex = 5;
+                break;
+            case ".rar":
+                nImgIndex = 6;
+                break;
+            case ".zip":
+                nImgIndex = 6;
+                break;
+            case ".html":
+                nImgIndex = 7;
+                break;
+            case ".htm":
+                nImgIndex = 7;
+                break;
+            case ".ini":
+                nImgIndex = 8;
+                break;
+            case ".dll":
+                nImgIndex = 9;
+                break;
+            case ".bat":
+                nImgIndex = 10;
+                break;
+            case ".exe":
+                nImgIndex = 11;
+                break;
+            case ".jpg":
+                nImgIndex = 12;
+                break;
+            case ".gif":
+                nImgIndex = 13;
+                break;
+            default:
+                nImgIndex = 14;
+                break;
+        }
+        items[0] = Path.GetFileName(files[i]);
+        FileInfo fi = new FileInfo(files[i]);
+        items[1] = fi.Length.ToString();
+        items[2] = ext + "文件";
+        items[3] = fi.LastWriteTime.ToLongDateString() + " " 
+										+ fi.LastWriteTime.ToLongTimeString();
+        lvi = new ListViewItem(items, nImgIndex);
+        lvFiles.Items.Add(lvi);
+    }
+    lvFiles.EndUpdate();
+}

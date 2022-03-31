@@ -1,0 +1,27 @@
+using System;
+¡­
+namespace Ex3_25
+{
+    class Hanoi
+    {
+        private static void Move(int count, char A, char B, char C)
+        {
+            if (count == 1)
+            {
+                Console.WriteLine("Move disc {0}----->{1}", A, C);
+                return;
+            }
+            Move(count-1, A, C, B);
+            Console.WriteLine("Move disc {0}----->{1}", A, C);
+            Move(count-1, B, A, C);
+        }
+        static void Main(string[] args)
+        {
+            Console.Write("Please Input the Number in the Source£º");
+            int count = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Task: Move {0} discs from A pass B to C", count);
+            Move(count, 'A', 'B', 'C');
+            Console.Read();
+        }
+    }
+}

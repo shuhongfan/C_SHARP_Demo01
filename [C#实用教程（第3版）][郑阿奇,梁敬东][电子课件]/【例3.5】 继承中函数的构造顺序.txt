@@ -1,0 +1,34 @@
+using System;
+…
+namespace Ex3_5
+{
+    public class Grandsire
+    {
+        public Grandsire()
+        {
+            Console.WriteLine("调用Grandsire的构造函数");
+        }
+    }
+    public class Father : Grandsire
+    {
+        public Father()
+        {
+            Console.WriteLine("调用Father的构造函数"); 
+        }
+    }
+    public class Son : Father
+    {
+        public Son()
+        {
+            Console.WriteLine("调用Son的构造函数"); 
+        }
+    }
+    class BaseLifeSample
+    {
+        static void Main(string[] args)
+        {
+            Son s1 = new Son();
+            Console.Read();
+        }
+    }
+}

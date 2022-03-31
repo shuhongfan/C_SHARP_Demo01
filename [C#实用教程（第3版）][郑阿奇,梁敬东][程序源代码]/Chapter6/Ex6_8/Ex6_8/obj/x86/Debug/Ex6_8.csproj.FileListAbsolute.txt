@@ -1,0 +1,10 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex6_8\Ex6_8\bin\Debug\Ex6_8.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex6_8\Ex6_8\bin\Debug\Ex6_8.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex6_8\Ex6_8\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex6_8\Ex6_8\obj\x86\Debug\Ex6_8.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex6_8\Ex6_8\obj\x86\Debug\Ex6_8.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex6_8\Ex6_8\obj\x86\Debug\Ex6_8.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex6_8\Ex6_8\obj\x86\Debug\Ex6_8.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex6_8\Ex6_8\bin\Debug\Ex6_8.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex6_8\Ex6_8\bin\Debug\Ex6_8.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex6_8\Ex6_8\obj\x86\Debug\Ex6_8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+using System;
+...
+using System.Windows.Forms;				//为使DataLoad类能直接操作窗体组件ComboBox
+using MySql.Data.MySqlClient;				//添加MySQL驱动库引用
+
+namespace Ex10_1
+{
+    class DataLoad
+    {
+        private static string strcon = @"server=localhost;User Id=root;password=njnu123456;database=XSCJDB;Character Set=utf8";						//数据库连接字符串
+        private MySqlConnection sqlcon = new MySqlConnection(strcon);		//创建数据库连接对象
+	   //方法：实现程序初始化时载入数据
+        public MySqlConnection initializeData(ComboBox cbx_xh, ComboBox cbx_kcm)
+        {
+            try
+            {
+                sqlcon.Open();									//打开连接
+                string sql = "SELECT DISTINCT XH FROM XSB";
+                MySqlCommand cmd = new MySqlCommand(sql, sqlcon);
+                MySqlDataReader mdr = cmd.ExecuteReader();
+                //读取并加载学号
+                while (mdr.Read()) { cbx_xh.Items.Add(mdr[0]); }
+                mdr.Close();
+                sql = "SELECT DISTINCT KCM FROM KCB";
+                cmd = new MySqlCommand(sql, sqlcon);
+                mdr = cmd.ExecuteReader();
+                //读取并加载课程
+                while (mdr.Read()) { cbx_kcm.Items.Add(mdr[0]); }
+                mdr.Close();
+                return sqlcon;		//返回数据库连接对象（提供给主程序构造Student类对象之用）
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(“初始化失败！错误信息为：\r\n” + e.ToString(), “异常”, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return null;
+            }
+        }
+    }
+}

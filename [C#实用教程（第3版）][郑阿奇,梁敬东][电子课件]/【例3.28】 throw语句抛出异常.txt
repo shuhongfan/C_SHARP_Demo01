@@ -1,0 +1,35 @@
+using System;
+…
+namespace Ex3_28
+{
+    class ThrowExample
+    {
+        public void Div()
+        {
+            try
+            {
+                int x = 5;
+                int y = 0;
+                int z = x / y;
+                Console.WriteLine(z);
+            }
+            catch (DivideByZeroException e)
+            {
+                throw new ArithmeticException("被除数为零", e);		// 抛出另一个异常
+            }
+        }
+        static void Main(string[] args)
+        {
+            try
+            {
+                ThrowExample ThrowException = new ThrowExample();
+                ThrowException.Div();
+            }
+            catch (Exception e)								// 捕获throw抛出的异常
+            {
+                Console.WriteLine("Exception:{0}", e.Message);		// 输出描述异常的信息
+                Console.Read();
+            }
+        }
+    }
+}

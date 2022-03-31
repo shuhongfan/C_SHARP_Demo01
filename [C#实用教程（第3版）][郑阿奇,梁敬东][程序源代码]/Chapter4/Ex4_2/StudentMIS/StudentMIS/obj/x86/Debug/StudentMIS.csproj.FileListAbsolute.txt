@@ -1,0 +1,23 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\bin\Debug\StudentMIS.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Browser.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Login.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Update.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Welcome.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\bin\Debug\StudentMIS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Browser.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Update.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Welcome.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+public class Student
+{
+    private string _name;           // 姓名
+    private string _number;         // 学号
+    private bool isRun = false;
+    public void Add(string name, string number)
+    {
+        Monitor.Enter(this);
+        if (isRun)
+        {
+            Monitor.Wait(this);
+        }
+        this._name = name;
+        this._number = number;
+
+        this.isRun = true;
+        Thread.Sleep(1000);
+        Monitor.Pulse(this);
+        Monitor.Exit(this);
+    }
+    public void GetInfo()
+    {
+        Monitor.Enter(this);
+        if (!isRun)
+        {
+            Monitor.Wait(this);
+        }
+        Console.Write("姓名：" + _name);
+        Console.WriteLine(" 学号：" + _number.ToString());
+        this.isRun = false;
+        Monitor.Pulse(this);
+        Monitor.Exit(this);
+    }
+}

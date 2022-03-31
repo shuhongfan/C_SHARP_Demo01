@@ -1,0 +1,17 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\bin\Debug\Ex7_3.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\bin\Debug\Ex7_3.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\bin\Debug\Ex7_3.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\bin\Debug\Ex7_3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_3\Ex7_3\obj\x86\Debug\Ex7_3.csproj.GenerateResource.Cache

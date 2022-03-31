@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\bin\Debug\Ex7_12.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\bin\Debug\Ex7_12.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.Form1.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.Properties.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\bin\Debug\Ex7_12.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\bin\Debug\Ex7_12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex7_12\Ex7_12\obj\x86\Debug\Ex7_12.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+using System;
+…
+namespace Ex2_3
+{
+    class StudentGrade
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("输入学生百分制的成绩：");
+            int Grade = Convert.ToInt32(Console.ReadLine());
+            switch (Grade/10)
+            {
+                case 9:
+                case 10: Console.WriteLine("你的成绩为：A");
+                    break;
+                case 8: Console.WriteLine("你的成绩为：B");
+                    break;
+                case 7: Console.WriteLine("你的成绩为：C");
+                    break;
+                case 6: Console.WriteLine("你的成绩为：D");
+                    break;
+                default: Console.WriteLine("你的成绩为：E");
+                    break;
+            }
+        }
+    }
+}

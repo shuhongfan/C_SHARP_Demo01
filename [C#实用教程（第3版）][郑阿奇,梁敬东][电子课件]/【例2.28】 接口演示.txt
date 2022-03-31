@@ -1,0 +1,43 @@
+using System;
+…
+namespace Ex2_28
+{
+    // 定义接口IPartA
+    public interface IPartA
+    {
+        void SetDataA(string dataA);
+    }
+    // 定义接口IPartB，继承IPartA
+    public interface IPartB : IPartA
+    {
+        void SetDataB(string dataB);
+    }
+    // 定义类SharedClass，派生于接口IPartB
+    public class SharedClass : IPartB
+    {
+        private string DataA;
+        private string DataB;
+        // 实现接口IPartA的方法SetDataA
+        public void SetDataA(string dataA)
+        {
+            DataA = dataA;
+            Console.WriteLine("{0}", DataA);
+        }
+        // 实现接口IPartB的方法SetDataB
+        public void SetDataB(string dataB)
+        {
+            DataB = dataB;
+            Console.WriteLine("{0}", DataB);
+        }
+    }
+    class test
+    {
+        static void Main(string[] args)
+        {
+            SharedClass a = new SharedClass();
+            a.SetDataA("interface IPartA");
+            a.SetDataB("interface IPartB");
+            Console.Read();
+        }
+    }
+}

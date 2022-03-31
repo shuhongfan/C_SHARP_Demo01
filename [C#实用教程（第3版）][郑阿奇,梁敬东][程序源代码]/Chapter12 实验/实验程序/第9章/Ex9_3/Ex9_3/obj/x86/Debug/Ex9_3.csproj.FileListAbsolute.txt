@@ -1,0 +1,27 @@
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\bin\Debug\Ex9_3.exe
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\bin\Debug\Ex9_3.pdb
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Form1.resources
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.exe
+d:\my documents\visual studio 2010\Projects\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\bin\Debug\Ex9_3.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\bin\Debug\Ex9_3.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.SelfDetail.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex9_3\Ex9_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\bin\Debug\Ex9_3.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\bin\Debug\Ex9_3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.SelfDetail.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第9章\Ex9_3\Ex9_3\obj\x86\Debug\Ex9_3.csproj.GenerateResource.Cache

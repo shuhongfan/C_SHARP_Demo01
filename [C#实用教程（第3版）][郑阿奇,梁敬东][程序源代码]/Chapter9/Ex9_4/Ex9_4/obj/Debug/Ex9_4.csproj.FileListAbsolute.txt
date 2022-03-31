@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\bin\Debug\Ex9_4.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\bin\Debug\Ex9_4.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\bin\Debug\Ex9_4.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\obj\Debug\Ex9_4.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex9_4\Ex9_4\bin\Debug\MySql.Data.xml
+E:\C#实用教程（第3版）\Chapter9\Ex9_4\Ex9_4\bin\Debug\Ex9_4.exe.config
+E:\C#实用教程（第3版）\Chapter9\Ex9_4\Ex9_4\obj\Debug\Ex9_4.exe
+E:\C#实用教程（第3版）\Chapter9\Ex9_4\Ex9_4\obj\Debug\Ex9_4.pdb

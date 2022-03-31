@@ -1,0 +1,25 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.SearchForm.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.CourseForm.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.ModifyForm.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.ScoreForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.CourseForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.ModifyForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.ScoreForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.SearchForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\第4部分 C#综合应用实习——学生成绩管理系统\ScoreManagement\ScoreManagement\obj\x86\Debug\ScoreManagement.csproj.GenerateResource.Cache

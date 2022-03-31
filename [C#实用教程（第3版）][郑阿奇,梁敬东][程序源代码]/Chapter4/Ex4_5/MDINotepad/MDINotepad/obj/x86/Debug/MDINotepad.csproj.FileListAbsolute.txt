@@ -1,0 +1,19 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\bin\Debug\MDINotepad.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.frmTxt.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.MDIForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\bin\Debug\MDINotepad.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.frmTxt.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.MDIForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_5\MDINotepad\MDINotepad\obj\x86\Debug\MDINotepad.csproj.GenerateResource.Cache

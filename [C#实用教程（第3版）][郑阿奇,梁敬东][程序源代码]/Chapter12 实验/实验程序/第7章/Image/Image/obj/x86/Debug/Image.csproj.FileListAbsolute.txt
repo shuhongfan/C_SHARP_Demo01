@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\bin\Debug\Image.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\bin\Debug\Image.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\Image.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\Image.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\Image.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Image\Image\obj\x86\Debug\Image.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\bin\Debug\Image.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\bin\Debug\Image.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第7章\Image\Image\obj\x86\Debug\Image.csproj.GenerateResource.Cache

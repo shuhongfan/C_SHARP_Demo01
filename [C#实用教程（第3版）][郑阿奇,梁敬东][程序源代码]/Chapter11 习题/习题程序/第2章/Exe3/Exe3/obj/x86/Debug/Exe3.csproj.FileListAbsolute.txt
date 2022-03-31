@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe3\Exe3\bin\Debug\Exe3.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe3\Exe3\bin\Debug\Exe3.pdb
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe3\Exe3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe3\Exe3\obj\x86\Debug\Exe3.exe
+D:\My Documents\Visual Studio 2010\Projects\习题程序\Exe3\Exe3\obj\x86\Debug\Exe3.pdb

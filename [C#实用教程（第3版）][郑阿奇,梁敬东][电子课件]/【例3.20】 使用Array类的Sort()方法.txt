@@ -1,0 +1,28 @@
+using System;
+бн
+namespace Ex3_20
+{
+    class Test
+    {
+        static void Main(string[] args)
+        {
+            string[] fruitArray = { "Apple", "Pearl", "Banana", "Carrot" };
+            Show(fruitArray);
+            Array.Sort(fruitArray);
+            Show(fruitArray);
+            int i = Array.BinarySearch(fruitArray, "Pearl");
+            Console.WriteLine(i);
+            Array.Reverse(fruitArray);
+            Show(fruitArray);
+            Console.Read();
+        }
+        private static void Show(object[] arr)
+        {
+            foreach (object obj in arr)
+            {
+                Console.Write(obj + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+}

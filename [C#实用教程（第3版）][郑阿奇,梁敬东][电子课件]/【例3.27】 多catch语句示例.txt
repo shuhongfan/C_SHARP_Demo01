@@ -1,0 +1,35 @@
+using System;
+¡­
+namespace Ex3_27
+{
+    class Withfinally
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                int x = 5;
+                int y = 0;
+                int z = x / y; // Òì³££¬³ýÊýÎª0
+                Console.WriteLine(z);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Error occurred, ,FormatException");
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Error occurred, DivideByZeroException");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error occurred, Exception");
+            }
+            finally
+            {
+                Console.WriteLine("Thank you for using the program");
+                Console.Read();
+            }
+        }
+    }
+}

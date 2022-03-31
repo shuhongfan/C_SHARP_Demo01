@@ -1,0 +1,27 @@
+using System;
+…
+namespace Ex3_19
+{
+    class TestConvert
+    {
+        static void Main(string[] args)
+        {
+            short a;
+            try
+            {
+                Console.WriteLine("Enter a string:");
+                a = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("a equals:{0}", a);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("字符串不是由数字组成的或为空.");
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("字符串的数值超出了short 范围.");
+            }
+            Console.Read();
+        }
+    }
+}

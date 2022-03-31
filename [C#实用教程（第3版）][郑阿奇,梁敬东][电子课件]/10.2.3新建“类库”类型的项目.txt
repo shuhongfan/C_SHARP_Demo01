@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+…
+using MySql.Data.MySqlClient;
+using System.Data;
+
+namespace DataLoad
+{
+    public class DataLoad
+    {
+        private static string strcon = @"server=localhost;User Id=root;password=njnu123456;database=XSCJDB;Character Set=utf8";
+        private MySqlConnection sqlcon = new MySqlConnection(strcon);
+        private List<string> cbx_xh = new List<string>();		//暂存学号列表数据
+        private List<string> cbx_kcm = new List<string>();		//暂存课程名列表数据
+
+        public MySqlConnection initializeData()
+        {
+            try
+            {
+                sqlcon.Open();
+                string sql = "SELECT DISTINCT XH FROM XSB";
+                MySqlCommand cmd = new MySqlCommand(sql, sqlcon);
+                MySqlDataReader mdr = cmd.ExecuteReader();
+                //读取并保存学号
+                while (mdr.Read()) { cbx_xh.Add(mdr[0].ToString()); }
+                mdr.Close();
+                sql = "SELECT DISTINCT KCM FROM KCB";
+                cmd = new MySqlCommand(sql, sqlcon);
+                mdr = cmd.ExecuteReader();
+                //读取并保存课程
+                while (mdr.Read()) { cbx_kcm.Add(mdr[0].ToString()); }
+                mdr.Close();
+                return sqlcon;
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
+        //get方法：提供给外部程序获取本类内部保存的学号和课程名列表
+        public List<string> getCbx_xh() { return cbx_xh; }
+        public List<string> getCbx_kcm() { return cbx_kcm; }
+    }
+}

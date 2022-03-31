@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\bin\Debug\Test4_2.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\bin\Debug\Test4_2.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\Test4_2.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\Test4_2.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\Test4_2.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Test4_2\Test4_2\obj\x86\Debug\Test4_2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\bin\Debug\Test4_2.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\bin\Debug\Test4_2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\实验程序\第4章\Test4_2\Test4_2\obj\x86\Debug\Test4_2.csproj.GenerateResource.Cache

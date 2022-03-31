@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Sort\Sort\bin\Debug\Sort.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Sort\Sort\bin\Debug\Sort.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Sort\Sort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Sort\Sort\obj\x86\Debug\Sort.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Sort\Sort\obj\x86\Debug\Sort.pdb

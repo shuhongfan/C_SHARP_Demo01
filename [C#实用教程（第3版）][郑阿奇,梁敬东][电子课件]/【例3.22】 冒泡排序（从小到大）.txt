@@ -1,0 +1,41 @@
+using System;
+бн
+namespace Ex3_22
+{
+    public class BubbleSorter
+    {
+        public void Sort(int[] list)
+        {
+            int i, j, temp;
+            bool done = false;
+            j = 1;
+            while ((j < list.Length) && (!done))
+            {
+                done = true;
+                for (i = 0; i < list.Length-j; i++)
+                {
+                    if (list[i] > list[i + 1])
+                    {
+                        done = false;
+                        temp = list[i];
+                        list[i] = list[i + 1];
+                        list[i + 1] = temp;
+                    }
+                }
+                j++;
+            }
+        }
+    }
+    class MainClass
+    {
+        static void Main(string[] args)
+        {
+            int[] iArrary = new int[] { 1, 5, 13, 6, 10, 55, 99, 2, 87, 12, 34, 75, 33, 47 };
+            BubbleSorter sh = new BubbleSorter();
+            sh.Sort(iArrary);
+            for (int m = 0; m < iArrary.Length; m++)
+                Console.Write("{0} ", iArrary[m]);
+            Console.Read();
+        }
+    }
+}

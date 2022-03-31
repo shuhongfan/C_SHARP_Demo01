@@ -1,0 +1,75 @@
+using System;
+…
+namespace Ex3_12
+{
+    // 定义抽象基类Shape
+    public abstract class Shape
+    {
+        protected string Color;
+        public Shape() { }
+        public Shape(string Color)
+        {
+            this.Color = Color;
+        }
+        public string GetColor()
+        {
+            return Color;
+        }
+        public abstract double GetArea();           // 定义抽象方法
+    }
+    // 定义Circle类，从Shape类中派生
+    public class Circle : Shape
+    {
+        private double Radius;
+        public Circle(string Color, double Radius)
+        {
+            this.Color = Color;
+            this.Radius = Radius;
+        }
+        // 实现抽象方法
+        public override double GetArea()
+        {
+            return System.Math.PI * Radius * Radius;
+        }
+    }
+    // 定义Rectangular类，从Shape类中派生
+    public class Rectangular : Shape
+    {
+        protected double Length, Width;
+        public Rectangular(string Color, double Length, double Width)
+        {
+            this.Color = Color;
+            this.Length = Length;
+            this.Width = Width;
+        }
+        // 实现抽象方法
+        public override double GetArea()
+        {
+            return Length * Width;
+        }
+        public double PerimeterIs()         // 周长
+        {
+            return (2 * (Length + Width));
+        }
+    }
+    // 派生类Square，从Rectangular类中派生
+    public class Square : Rectangular
+    {
+        public Square(string Color, double Side) : base(Color, Side, Side) { }
+    }
+    class TestAbstract
+    {
+        static void Main(string[] args)
+        {
+            Circle Cir = new Circle("orange", 3.0);
+            Console.WriteLine("Circle color is {0},Circle area is {1}", Cir.GetColor(), Cir.GetArea());
+            Rectangular Rect = new Rectangular("red", 13.0, 2.0);
+            Console.WriteLine("Rectangualr color is {0},Rectangualr area is {1}, 
+				Rectangular perimeter is {2}",Rect.GetColor(), Rect.GetArea(), Rect.PerimeterIs());
+            Square Squ = new Square("green", 5.0);
+            Console.WriteLine("Square color is {0},Square Area is {1}, 
+				Square perimeter is {2}",Squ.GetColor(), Squ.GetArea(), Squ.PerimeterIs());
+            Console.Read();
+        }
+    }
+}

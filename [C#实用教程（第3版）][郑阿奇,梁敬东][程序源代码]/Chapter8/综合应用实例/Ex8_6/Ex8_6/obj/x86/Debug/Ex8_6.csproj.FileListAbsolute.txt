@@ -1,0 +1,35 @@
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\bin\Debug\Ex8_6.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\bin\Debug\Ex8_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.exe
+D:\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\bin\Debug\Ex8_6.exe
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\bin\Debug\Ex8_6.pdb
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\实验程序\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\bin\Debug\Ex8_6.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\bin\Debug\Ex8_6.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Ex8_6\Ex8_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\bin\Debug\Ex8_6.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\bin\Debug\Ex8_6.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\综合应用实例\Ex8_6\Ex8_6\obj\x86\Debug\Ex8_6.csproj.GenerateResource.Cache

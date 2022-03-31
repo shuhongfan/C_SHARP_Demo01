@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_5\Ex5_5\bin\Debug\Ex5_5.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_5\Ex5_5\bin\Debug\Ex5_5.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_5\Ex5_5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_5\Ex5_5\obj\x86\Debug\Ex5_5.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex5_5\Ex5_5\obj\x86\Debug\Ex5_5.pdb

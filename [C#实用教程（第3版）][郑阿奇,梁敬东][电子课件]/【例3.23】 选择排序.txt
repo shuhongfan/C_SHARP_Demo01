@@ -1,0 +1,36 @@
+using System;
+бн
+namespace Ex3_23
+{
+     public class SelectionSorter
+     {
+         private int min;
+         public void Sort(int[] list)
+         {
+             for (int i = 0; i < list.Length-1; i++)
+             {
+                 min = i;
+                 for (int j = i + 1; j < list.Length; j++)
+                 {
+                     if (list[j] < list[min])
+                         min = j;
+                 }
+                 int t = list[min];
+                 list[min] = list[i];
+                 list[i] = t;
+             }
+         }
+     }
+    class MainClass
+    {
+        static void Main(string[] args)
+        {
+            int[] iArrary = new int[] { 1, 5, 3, 6, 10, 55, 9, 2, 87, 12, 34, 75, 33, 47 };
+            SelectionSorter ss = new SelectionSorter();
+            ss.Sort(iArrary);
+            for (int m = 0; m < iArrary.Length; m++)
+                Console.Write("{0} ", iArrary[m]);
+            Console.Read();
+        }
+    }
+}

@@ -1,0 +1,54 @@
+using System;
+…
+namespace Ex3_8
+{
+    class Complex
+    {
+        double  r, v;  					//r+ v i
+        public Complex(double r, double v)
+        {
+            this.r=r;
+            this.v=v;
+        }
+        // 二元运算符“+”重载
+        public static Complex operator +(Complex a, Complex b)
+        {
+            return new Complex(a.r+b.r, a.v+b.v);
+        }
+        // 一元运算符“-”重载
+        public static Complex operator -(Complex a)
+        {
+            return new Complex(-a.r,-a.v);
+        }
+        // 一元运算符“++”重载
+        public static Complex operator ++(Complex a)
+        {
+            double r=a.r+1;
+            double v=a.v+1;
+            return new Complex(r, v);
+        }
+        public void Print()
+        {
+            Console.Write(r+" + "+v+"i\n");
+        }
+    }
+    class Test
+    {
+        static void Main(string[] args)
+        {
+			Complex a=new Complex(3,4);
+			Complex b=new Complex(5,6);
+			Complex c=-a;
+			c.Print();
+			Complex d=a+b;
+			d.Print();
+			a.Print();
+			Complex e=a++;          // 先赋值后++
+			a.Print();
+			e.Print();
+			Complex f=++a;          // 先++后赋值
+			a.Print();
+			f.Print();
+        }
+    }
+}
