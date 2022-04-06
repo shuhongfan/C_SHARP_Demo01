@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static StudentMIS.Update;
 
 namespace StudentMIS
 {
@@ -15,6 +16,22 @@ namespace StudentMIS
         public Browser()
         {
             InitializeComponent();
+            try
+            {
+                pictureBox1.Image = Image.FromFile(path);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            textBox1.Text = info;
+            Welcome.updateForm = new Update();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Welcome.updateForm.Show();
+            this.Hide();
         }
     }
 }

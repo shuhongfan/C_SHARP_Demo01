@@ -21,3 +21,17 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\St
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Update.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Welcome.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.GenerateResource.Cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\bin\Debug\StudentMIS.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\bin\Debug\StudentMIS.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Browser.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Login.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Properties.Resources.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Update.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.Welcome.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_2\StudentMIS\StudentMIS\obj\x86\Debug\StudentMIS.pdb
