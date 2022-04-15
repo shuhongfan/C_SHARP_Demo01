@@ -15,3 +15,14 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_3\Notepad\Notep
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.frmTxt.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.frmTxt.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter4\Ex4_3\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
