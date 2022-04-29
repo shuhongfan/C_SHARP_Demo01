@@ -15,3 +15,14 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_9\Ex7_9\obj\x86
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.Form1.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.Properties.Resources.resources
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.csproj.GenerateResource.Cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\bin\Debug\Ex7_9.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\bin\Debug\Ex7_9.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\bin\Debug\Ex7_9.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.Form1.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.Properties.Resources.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter7\Ex7_9\Ex7_9\obj\x86\Debug\Ex7_9.pdb

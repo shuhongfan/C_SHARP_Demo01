@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Project1.sy5_1</StartupObject>
+    <StartupObject>Project1.sy6_1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -72,6 +72,8 @@
     <Compile Include="sy3_3.cs" />
     <Compile Include="sy3_4.cs" />
     <Compile Include="sy5-1.cs" />
+    <Compile Include="sy6-1.cs" />
+    <Compile Include="sy6-2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

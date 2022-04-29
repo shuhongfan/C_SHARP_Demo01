@@ -1,0 +1,17 @@
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\bin\Debug\net6.0-windows\sy7-2.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\bin\Debug\net6.0-windows\sy7-2.deps.json
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\bin\Debug\net6.0-windows\sy7-2.runtimeconfig.json
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\bin\Debug\net6.0-windows\sy7-2.dll
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\bin\Debug\net6.0-windows\sy7-2.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7_2.Form1.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.AssemblyInfoInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.AssemblyInfo.cs
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.dll
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\refint\sy7-2.dll
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\sy7-2.genruntimeconfig.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\sy7-2\sy7-2\obj\Debug\net6.0-windows\ref\sy7-2.dll
