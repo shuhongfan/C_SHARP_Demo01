@@ -3,3 +3,11 @@ c:\documents and settings\administrator\my documents\visual studio 2010\Projects
 c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex8_2\Ex8_2\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.exe
 c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\bin\Debug\Ex8_2.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\bin\Debug\Ex8_2.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\bin\Debug\Ex8_2.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_2\Ex8_2\obj\x86\Debug\Ex8_2.pdb

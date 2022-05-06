@@ -187,5 +187,10 @@ namespace Ex8_6
             lvFiles.Columns[2].Text = "类型";
             lvFiles.Columns[3].Text = "修改日期";
         }
+
+        private void maiMenu_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

@@ -33,18 +33,11 @@
             this.maiMenu = new System.Windows.Forms.MenuStrip();
             this.文件FToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.miNewFile = new System.Windows.Forms.ToolStripMenuItem();
-            this.miOpenFile = new System.Windows.Forms.ToolStripMenuItem();
-            this.miDelFile = new System.Windows.Forms.ToolStripMenuItem();
             this.miSep = new System.Windows.Forms.ToolStripSeparator();
             this.miExit = new System.Windows.Forms.ToolStripMenuItem();
             this.目录DToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.miNewDir = new System.Windows.Forms.ToolStripMenuItem();
             this.miDelDir = new System.Windows.Forms.ToolStripMenuItem();
-            this.视图VToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.miLargeIcon = new System.Windows.Forms.ToolStripMenuItem();
-            this.miSmallIcon = new System.Windows.Forms.ToolStripMenuItem();
-            this.miList = new System.Windows.Forms.ToolStripMenuItem();
-            this.miDetail = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
             this.txtPath = new System.Windows.Forms.ToolStripTextBox();
@@ -63,53 +56,39 @@
             // 
             this.maiMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.文件FToolStripMenuItem,
-            this.目录DToolStripMenuItem,
-            this.视图VToolStripMenuItem});
+            this.目录DToolStripMenuItem});
             this.maiMenu.Location = new System.Drawing.Point(0, 0);
             this.maiMenu.Name = "maiMenu";
-            this.maiMenu.Size = new System.Drawing.Size(649, 24);
+            this.maiMenu.Size = new System.Drawing.Size(649, 27);
             this.maiMenu.TabIndex = 0;
             this.maiMenu.Text = "menuStrip1";
+            this.maiMenu.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.maiMenu_ItemClicked);
             // 
             // 文件FToolStripMenuItem
             // 
             this.文件FToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.miNewFile,
-            this.miOpenFile,
-            this.miDelFile,
             this.miSep,
             this.miExit});
             this.文件FToolStripMenuItem.Name = "文件FToolStripMenuItem";
-            this.文件FToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
+            this.文件FToolStripMenuItem.Size = new System.Drawing.Size(62, 23);
             this.文件FToolStripMenuItem.Text = "文件(&F)";
             // 
             // miNewFile
             // 
             this.miNewFile.Name = "miNewFile";
-            this.miNewFile.Size = new System.Drawing.Size(114, 22);
+            this.miNewFile.Size = new System.Drawing.Size(180, 24);
             this.miNewFile.Text = "新建(&N)";
-            // 
-            // miOpenFile
-            // 
-            this.miOpenFile.Name = "miOpenFile";
-            this.miOpenFile.Size = new System.Drawing.Size(114, 22);
-            this.miOpenFile.Text = "打开(&O)";
-            // 
-            // miDelFile
-            // 
-            this.miDelFile.Name = "miDelFile";
-            this.miDelFile.Size = new System.Drawing.Size(114, 22);
-            this.miDelFile.Text = "删除(&D)";
             // 
             // miSep
             // 
             this.miSep.Name = "miSep";
-            this.miSep.Size = new System.Drawing.Size(111, 6);
+            this.miSep.Size = new System.Drawing.Size(177, 6);
             // 
             // miExit
             // 
             this.miExit.Name = "miExit";
-            this.miExit.Size = new System.Drawing.Size(114, 22);
+            this.miExit.Size = new System.Drawing.Size(180, 24);
             this.miExit.Text = "退出(&X)";
             // 
             // 目录DToolStripMenuItem
@@ -118,63 +97,27 @@
             this.miNewDir,
             this.miDelDir});
             this.目录DToolStripMenuItem.Name = "目录DToolStripMenuItem";
-            this.目录DToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
+            this.目录DToolStripMenuItem.Size = new System.Drawing.Size(65, 23);
             this.目录DToolStripMenuItem.Text = "目录(&D)";
             // 
             // miNewDir
             // 
             this.miNewDir.Name = "miNewDir";
-            this.miNewDir.Size = new System.Drawing.Size(113, 22);
+            this.miNewDir.Size = new System.Drawing.Size(180, 24);
             this.miNewDir.Text = "新建(&N)";
             // 
             // miDelDir
             // 
             this.miDelDir.Name = "miDelDir";
-            this.miDelDir.Size = new System.Drawing.Size(113, 22);
+            this.miDelDir.Size = new System.Drawing.Size(180, 24);
             this.miDelDir.Text = "删除(&D)";
-            // 
-            // 视图VToolStripMenuItem
-            // 
-            this.视图VToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.miLargeIcon,
-            this.miSmallIcon,
-            this.miList,
-            this.miDetail});
-            this.视图VToolStripMenuItem.Name = "视图VToolStripMenuItem";
-            this.视图VToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
-            this.视图VToolStripMenuItem.Text = "视图(&V)";
-            // 
-            // miLargeIcon
-            // 
-            this.miLargeIcon.Name = "miLargeIcon";
-            this.miLargeIcon.Size = new System.Drawing.Size(137, 22);
-            this.miLargeIcon.Text = "大图标(&L)";
-            // 
-            // miSmallIcon
-            // 
-            this.miSmallIcon.Name = "miSmallIcon";
-            this.miSmallIcon.Size = new System.Drawing.Size(137, 22);
-            this.miSmallIcon.Text = "小图标(&S)";
-            // 
-            // miList
-            // 
-            this.miList.Name = "miList";
-            this.miList.Size = new System.Drawing.Size(137, 22);
-            this.miList.Text = "列表(&L)";
-            // 
-            // miDetail
-            // 
-            this.miDetail.Name = "miDetail";
-            this.miDetail.Size = new System.Drawing.Size(152, 22);
-            this.miDetail.Text = "详细资料(&D)";
-            this.miDetail.Click += new System.EventHandler(this.miDetail_Click);
             // 
             // toolStrip1
             // 
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripLabel1,
             this.txtPath});
-            this.toolStrip1.Location = new System.Drawing.Point(0, 24);
+            this.toolStrip1.Location = new System.Drawing.Point(0, 27);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(649, 25);
             this.toolStrip1.TabIndex = 1;
@@ -183,11 +126,12 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(35, 22);
+            this.toolStripLabel1.Size = new System.Drawing.Size(38, 22);
             this.toolStripLabel1.Text = "路径:";
             // 
             // txtPath
             // 
+            this.txtPath.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F);
             this.txtPath.Name = "txtPath";
             this.txtPath.Size = new System.Drawing.Size(500, 25);
             // 
@@ -213,8 +157,8 @@
             // 
             // tvDir
             // 
-            this.tvDir.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)));
+            this.tvDir.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.tvDir.ImageIndex = 0;
             this.tvDir.ImageList = this.imageList1;
             this.tvDir.Location = new System.Drawing.Point(0, 49);
@@ -227,14 +171,15 @@
             // 
             // lvFiles
             // 
-            this.lvFiles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.lvFiles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.lvFiles.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.chName,
             this.chSize,
             this.chType,
             this.chTime});
+            this.lvFiles.HideSelection = false;
             this.lvFiles.LargeImageList = this.imageList1;
             this.lvFiles.Location = new System.Drawing.Point(166, 49);
             this.lvFiles.Name = "lvFiles";
@@ -254,7 +199,7 @@
             this.Controls.Add(this.maiMenu);
             this.MainMenuStrip = this.maiMenu;
             this.Name = "Form1";
-            this.Text = "资源管理器";
+            this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.maiMenu.ResumeLayout(false);
             this.maiMenu.PerformLayout();
@@ -270,18 +215,11 @@
         private System.Windows.Forms.MenuStrip maiMenu;
         private System.Windows.Forms.ToolStripMenuItem 文件FToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem miNewFile;
-        private System.Windows.Forms.ToolStripMenuItem miOpenFile;
-        private System.Windows.Forms.ToolStripMenuItem miDelFile;
         private System.Windows.Forms.ToolStripSeparator miSep;
         private System.Windows.Forms.ToolStripMenuItem miExit;
         private System.Windows.Forms.ToolStripMenuItem 目录DToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem miNewDir;
         private System.Windows.Forms.ToolStripMenuItem miDelDir;
-        private System.Windows.Forms.ToolStripMenuItem 视图VToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem miLargeIcon;
-        private System.Windows.Forms.ToolStripMenuItem miSmallIcon;
-        private System.Windows.Forms.ToolStripMenuItem miList;
-        private System.Windows.Forms.ToolStripMenuItem miDetail;
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.ToolStripLabel toolStripLabel1;
         private System.Windows.Forms.ToolStripTextBox txtPath;

@@ -23,3 +23,14 @@ E:\C#实用教程（第3版）\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csprojRe
 E:\C#实用教程（第3版）\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.Form1.resources
 E:\C#实用教程（第3版）\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.Properties.Resources.resources
 E:\C#实用教程（第3版）\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csproj.GenerateResource.Cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\bin\Debug\Ex8_1.exe.config
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\bin\Debug\Ex8_1.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\bin\Debug\Ex8_1.pdb
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csproj.AssemblyReference.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.Form1.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.Properties.Resources.resources
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csproj.GenerateResource.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.csproj.CoreCompileInputs.cache
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.exe
+C:\Users\shuho\Documents\Code\C_SHARP_Demo01\[C#实用教程（第3版）][郑阿奇,梁敬东][程序源代码]\Chapter8\Ex8_1\Ex8_1\obj\x86\Debug\Ex8_1.pdb

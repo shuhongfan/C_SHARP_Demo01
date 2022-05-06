@@ -55,6 +55,7 @@
             // 
             // listView1
             // 
+            this.listView1.HideSelection = false;
             this.listView1.LargeImageList = this.imageList1;
             this.listView1.Location = new System.Drawing.Point(125, 0);
             this.listView1.Name = "listView1";
